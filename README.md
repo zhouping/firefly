@@ -1,2 +1,2 @@
 # firefly
-it's a demo
+it's just a demo
